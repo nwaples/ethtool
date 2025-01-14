@@ -1,4 +1,4 @@
-module github.com/mdlayher/ethtool
+module github.com/nwaples/ethtool
 
 go 1.19
 
